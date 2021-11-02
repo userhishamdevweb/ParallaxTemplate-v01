@@ -1,0 +1,119 @@
+user 
+
+<i class="fas fa-user"></i>
+
+f007
+
+
+grid 
+
+<i class="fas fa-th"></i>
+
+f00a
+
+envelope
+
+<i class="fas fa-envelope"></i>
+
+
+f0e0
+
+search
+
+<i class="fas fa-search"></i>
+
+f002
+
+
+camera
+
+<i class="fas fa-camera"></i>
+
+f030
+
+laptop
+
+<i class="fas fa-laptop"></i>
+
+f109
+
+image
+
+<i class="fas fa-image"></i>
+
+f03e
+
+
+map marker 
+
+<i class="fas fa-map-marker-alt"></i>
+
+f3c5
+
+phone 
+
+<i class="fas fa-phone-alt"></i>
+
+f879
+
+
+coffee
+
+<i class="fas fa-coffee"></i>
+
+f0f4
+
+paper plane 
+
+
+<i class="fas fa-paper-plane"></i>
+
+f1d8
+
+
+arrow up
+
+<i class="fas fa-arrow-up"></i>
+
+
+f062
+
+facebook icon
+
+<i class="fab fa-facebook-square"></i>
+
+f082
+
+instgram icon
+
+<i class="fab fa-instagram"></i>
+
+f16d
+
+snapchat icon
+
+<i class="fab fa-snapchat"></i>
+
+f2ab
+
+pintrist icon
+
+
+<i class="fab fa-pinterest-p"></i>
+
+f231
+
+
+
+twitter icon
+
+<i class="fab fa-twitter"></i>
+
+f099
+
+linkedin icon
+
+<i class="fab fa-linkedin-in"></i>
+
+
+f0e1

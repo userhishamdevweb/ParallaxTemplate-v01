@@ -1,0 +1,68 @@
+.header{
+     /* background-color: rgb(88, 255, 160); */
+
+}
+.header .nav{
+        display: flex;
+}      
+.header .nav  nav{
+       
+        flex: 1;
+        display: flex;
+       
+      
+}
+.header .nav nav ul{ 
+        display: flex;
+       
+        margin: 0;
+        padding-left: 0;
+       list-style: none;
+}
+.header .nav nav ul li{ 
+        padding : 0 10px;
+
+}
+.header .nav nav ul li a{
+        position: relative;
+        top: 24%;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: rgb(119, 119, 119);
+}
+.header .nav nav ul li:hover{
+        background-color: rgba(110  110  110 / 0.5);
+}
+
+.header .nav nav ul li:nth-child(2)::before,
+.header .nav nav ul li:nth-of-type(3)::before,
+.header .nav nav ul li:last-of-type::before{
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        margin-right: 5px ;
+        position: relative;
+        top: 25%;
+        color:rgb(119, 119, 119)
+}
+.header .nav nav ul li:nth-child(2)::before{
+        content: "\f007";
+}
+.header .nav nav ul li:nth-of-type(3)::before{
+        content: "\f00a";   
+}
+.header .nav nav ul li:last-of-type::before{
+        content: "\f0e0";
+}
+
+.header .nav .search i{
+       
+        text-decoration: none;
+      
+        color: rgb(119, 119, 119);
+       
+        padding: 20px  ;
+}
+.header .nav .search:hover i {
+          background-color:  salmon;
+}
+/* end header */
